@@ -1,3 +1,4 @@
-﻿  Zadanie21.cpp
-D:\Praca\Repos\Pwr_racing\Zadania_pwr_racing_team\Zadanie2\Zadanie21.cpp(15,31): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+﻿  Zadanie2.cpp
+D:\Praca\Repos\Pwr_racing\Zadania_pwr_racing_team\Zadanie2\Zadanie2.cpp(23,31): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+D:\Praca\Repos\Pwr_racing\Zadania_pwr_racing_team\Zadanie2\Zadanie2.cpp(130,12): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
   Zadanie2.vcxproj -> D:\Praca\Repos\Pwr_racing\Zadania_pwr_racing_team\Zadanie2\x64\Debug\Zadanie2.exe

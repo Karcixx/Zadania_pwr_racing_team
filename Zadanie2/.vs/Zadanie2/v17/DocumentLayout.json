@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|solutionrelative:Zadanie21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|solutionrelative:Zadanie2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Dodatek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7444EDD4-8022-433E-A28A-43884DAE1327}|Zadanie2.vcxproj|solutionrelative:Dodatek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dodatek.cpp",
+              "DocumentMoniker": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Dodatek.cpp",
+              "RelativeDocumentMoniker": "Dodatek.cpp",
+              "ToolTip": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Dodatek.cpp",
+              "RelativeToolTip": "Dodatek.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-16T19:58:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Zadanie21.cpp",
-              "DocumentMoniker": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie21.cpp",
-              "RelativeDocumentMoniker": "Zadanie21.cpp",
-              "ToolTip": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie21.cpp",
-              "RelativeToolTip": "Zadanie21.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "Zadanie2.cpp",
+              "DocumentMoniker": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie2.cpp",
+              "RelativeDocumentMoniker": "Zadanie2.cpp",
+              "ToolTip": "D:\\Praca\\Repos\\Pwr_racing\\Zadania_pwr_racing_team\\Zadanie2\\Zadanie2.cpp",
+              "RelativeToolTip": "Zadanie2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-15T18:48:35.539Z",
               "EditorCaption": ""
